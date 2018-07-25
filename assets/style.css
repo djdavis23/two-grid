@@ -7,7 +7,7 @@
     padding: 30px;
     box-shadow: 1px 1px 2px #e7e7e7;
     border-radius: 4px;
-    margin: 20px 90px;
+    margin: 20px 180px;
 }
 h3, h4, p {
     text-align: center;
@@ -15,5 +15,15 @@ h3, h4, p {
 .bigsilver{
     background-color: #D2D2D2;
 }
-
-
+.bg-white {
+    background: white;
+    color: gray;
+}
+.m-5 {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+.m-5-3 {
+    margin-top: 5rem;
+    margin-bottom: 3rem;
+}
