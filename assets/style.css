@@ -1,0 +1,19 @@
+.bg-blue {
+    background: #3079AB;
+    color: white;
+}
+.card-white {
+    background: white;
+    padding: 30px;
+    box-shadow: 1px 1px 2px #e7e7e7;
+    border-radius: 4px;
+    margin: 20px 90px;
+}
+h3, h4, p {
+    text-align: center;
+}
+.bigsilver{
+    background-color: #D2D2D2;
+}
+
+
